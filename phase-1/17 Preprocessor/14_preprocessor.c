@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 #define MAX_SPEED 12
 
 #define SQUARE(x)((x)*(x))
